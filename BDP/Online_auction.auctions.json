@@ -1,0 +1,100 @@
+[{
+  "_id": "auc002",
+  "itemName": "Vintage Watch",
+  "category": "Fashion",
+  "description": "Classic timepiece",
+  "closingDate": "2023-08-25T16:00:00",
+  "startingBid": 300,
+  "status": "open",
+  "createdBy": "usr002"
+},
+{
+  "_id": "auc003",
+  "itemName": "Gaming Console",
+  "category": "Electronics",
+  "description": "High-performance gaming system",
+  "closingDate": "2023-09-02T20:00:00",
+  "startingBid": 500,
+  "status": "open",
+  "createdBy": "usr003"
+},
+{
+  "_id": "auc004",
+  "itemName": "Artwork",
+  "category": "Art",
+  "description": "Original painting by a renowned artist",
+  "closingDate": "2023-08-28T14:00:00",
+  "startingBid": 1000,
+  "status": "open",
+  "createdBy": "usr004"
+},
+{
+  "_id": "auc005",
+  "itemName": "Designer Handbag",
+  "category": "Fashion",
+  "description": "Luxurious accessory",
+  "closingDate": "2023-08-29T12:00:00",
+  "startingBid": 400,
+  "status": "open",
+  "createdBy": "usr005"
+},
+{
+  "_id": "auc006",
+  "itemName": "Mountain Bike",
+  "category": "Sports",
+  "description": "Off-road adventure",
+  "closingDate": "2023-09-05T15:00:00",
+  "startingBid": 350,
+  "status": "open",
+  "createdBy": "usr006"
+},
+{
+  "_id": "auc007",
+  "itemName": "Smartphone",
+  "category": "Electronics",
+  "description": "Latest model smartphone",
+  "closingDate": "2023-08-30T17:00:00",
+  "startingBid": 600,
+  "status": "open",
+  "createdBy": "usr007"
+},
+{
+  "_id": "auc008",
+  "itemName": "Antique Furniture",
+  "category": "Furniture",
+  "description": "Rare collectible piece",
+  "closingDate": "2023-09-10T10:00:00",
+  "startingBid": 900,
+  "status": "open",
+  "createdBy": "usr008"
+},
+{
+  "_id": "auc009",
+  "itemName": "Fitness Equipment",
+  "category": "Sports",
+  "description": "Home gym essentials",
+  "closingDate": "2023-09-12T14:00:00",
+  "startingBid": 250,
+  "status": "open",
+  "createdBy": "usr009"
+},
+{
+  "_id": "auc010",
+  "itemName": "Vintage Vinyl Records",
+  "category": "Music",
+  "description": "Classic music collection",
+  "closingDate": "2023-09-08T18:00:00",
+  "startingBid": 150,
+  "status": "open",
+  "createdBy": "usr010"
+},
+{
+  "_id": "auc001",
+  "itemName": "Laptop",
+  "category": "Electronics",
+  "description": "Brand new laptop",
+  "closingDate": "2023-08-31T18:00:00",
+  "startingBid": 800,
+  "status": "open",
+  "createdBy": "usr001"
+}]

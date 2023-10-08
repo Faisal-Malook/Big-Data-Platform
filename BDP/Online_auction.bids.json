@@ -1,0 +1,63 @@
+[{
+  "_id": "bid002",
+  "auctionId": "auc001",
+  "bidder": "usr003",
+  "dateTime": "2023-08-15T15:45:00",
+  "amount": 920
+},
+{
+  "_id": "bid003",
+  "auctionId": "auc001",
+  "bidder": "usr004",
+  "dateTime": "2023-08-16T09:20:00",
+  "amount": 900
+},
+{
+  "_id": "bid004",
+  "auctionId": "auc002",
+  "bidder": "usr002",
+  "dateTime": "2023-08-14T18:10:00",
+  "amount": 320
+},
+{
+  "_id": "bid005",
+  "auctionId": "auc002",
+  "bidder": "usr005",
+  "dateTime": "2023-08-15T11:30:00",
+  "amount": 380
+},
+{
+  "_id": "bid006",
+  "auctionId": "auc003",
+  "bidder": "usr007",
+  "dateTime": "2023-08-14T19:45:00",
+  "amount": 150
+},
+{
+  "_id": "bid007",
+  "auctionId": "auc003",
+  "bidder": "usr008",
+  "dateTime": "2023-08-15T10:00:00",
+  "amount": 180
+},
+{
+  "_id": "bid001",
+  "auctionId": "auc001",
+  "bidder": "usr002",
+  "dateTime": "2023-08-15T14:30:00",
+  "amount": 850
+},
+{
+  "_id": "bid010",
+  "auctionId": "auc001",
+  "bidder": "usr003",
+  "dateTime": "2023-08-16T10:45:00",
+  "amount": 880
+},
+{
+  "_id": "bid011",
+  "auctionId": "auc003",
+  "bidder": "usr004",
+  "dateTime": "2023-08-16T10:45:00",
+  "amount": 880
+}]
